@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "余秋雨《文化苦旅》"
-subtitle:   " \"读书笔记\""
-date:       2025-01-25 13:00:00
+subtitle:   " \"名不副实，真不痛快\""
+date:       2025-01-25 17:00:00
 author:     "NOTNAME"
 header-img: "img/sea.jpeg"
 catalog: true
